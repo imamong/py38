@@ -1,0 +1,22 @@
+
+      <project>
+          <name>demo</name>
+          <auth></auth>
+          <operSystem>windows</operSystem>
+          <createtime>2024-05-08 10:39:46</createtime>
+          <desc></desc>
+          <Floder>
+              <item name="流程" del="false" rename="false" cut="false" copy="false" past="false">
+                <item name="代码文件"></item>
+                <item name="截图文件"></item>
+              </item>
+              <item name="输入" del="false" rename="false" cut="false" copy="false" past="false">
+                <item name="模板文件"></item>
+                <item name="数据文件"></item>
+              </item>
+              <item name="输出" del="false" rename="false" cut="false" copy="false" past="false">
+                <item name="调试文件"></item>
+                <item name="输出文件"></item>
+              </item>
+          </Floder>
+      </project>
